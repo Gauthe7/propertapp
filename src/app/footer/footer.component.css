@@ -1,0 +1,10 @@
+.foot{
+width: 100vw;
+height: 80px;
+padding: 20px;
+text-align: center;
+color: snow;
+position: fixed;
+bottom: 0px;
+background:linear-gradient(to right, steelblue,green)
+}
